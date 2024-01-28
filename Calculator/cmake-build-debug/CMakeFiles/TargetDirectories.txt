@@ -1,0 +1,3 @@
+C:/Users/genti/Desktop/Calculator/cmake-build-debug/CMakeFiles/Calculator.dir
+C:/Users/genti/Desktop/Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/genti/Desktop/Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
